@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.background-img{
+    background-image: url("night.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
+
+.services{
+
+    h4{
+        width: 10rem;
+        background-color: orange;
+    }
+}
+
+.titles{
+    display: flex;
+    justify-content: space-around;
+}
